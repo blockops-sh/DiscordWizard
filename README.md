@@ -68,6 +68,10 @@ We welcome and appreciate contributions from the community! If you'd like to con
 
 By following these steps, you can contribute to the development of DiscordWizard and help make it even better for everyone! We look forward to collaborating with you. 🚀
 
+## Run with docker compose
+**docker-compose build**
+**docker-compose up -d**
+
 ## Connect with the Developer 🚀
 
 Stay connected and keep up with ongoing projects and innovations.
